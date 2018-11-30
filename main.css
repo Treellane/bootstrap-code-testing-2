@@ -173,3 +173,39 @@ body {
     padding: 10px 15px;
     
 }
+
+.content-container {
+    padding-top: 45px;
+    padding-bottom: 75px;
+    
+}
+
+.container-wrapper {
+    background-color: #c7ab5e;
+}
+
+
+.glyphicon {
+    display: block;
+    font-size: 45px;
+    line-height: 45px;
+    margin-left: 0px;
+    margin-bottom: 20px;
+    color: #8a441a;
+}
+
+.feature {
+    text-align: center;
+}
+
+.page-header {
+    text-align: center;
+}
+
+.feature .btn {
+    padding: 5px 10px;
+    font-size: 14px;
+    line-height: 1.5;
+    border-radius: 15px;
+    min-width: 100px;
+}
